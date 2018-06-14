@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my_mvp_project.iml" filepath="$PROJECT_DIR$/my_mvp_project.iml" />
+      <module fileurl="file://D:\CodeResource\Github\my_mvp_project\retrofitcachelibrx2\retrofitcachelibrx2.iml" filepath="D:\CodeResource\Github\my_mvp_project\retrofitcachelibrx2\retrofitcachelibrx2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo/retrofitdemo.iml" filepath="$PROJECT_DIR$/retrofitdemo/retrofitdemo.iml" />
+    </modules>
+  </component>
+</project>
